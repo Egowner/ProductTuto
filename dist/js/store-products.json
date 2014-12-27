@@ -16,13 +16,10 @@
     "reviews": []
   },
   {
-    "name": "Ducktail Altezza Is300",
+    "name": "Ducktail Is300",
     "price": 240,
-    "description": "Origin of the Bloodstone is unknown, hence its low value. It has a very high shine and 12 sides, however.",
-    "shine": 9,    
-    "rarity": 6,
-    "color": "#EEE",
-    "faces": 12,
+    "description": "Fit on all Lexus IS sedan, First generation (1998-2005).",
+    "color": "Grey",
     "images": [
       "../dist/Image/Ducktail_Altezza_Is300/1.jpg",
       "../dist/Image/Ducktail_Altezza_Is300/2.jpg",
@@ -36,29 +33,21 @@
   {
     "name": "Ducktail Silvia S13",
     "price": 200,
-    "description": "Zircon is our most coveted and sought after gem. You will pay much to be the proud owner of this gorgeous and high shine gem.",
-    "shine": 70,
-    "rarity": 2,
-    "color": "#000",
-    "faces": 6,
+    "description": "Ducktail for Silvia S13 Coup.",
+    "color": "Grey",
     "images": [
       "../dist/Image/Ducktail_Silvia_S13/1.jpg",
       "../dist/Image/Ducktail_Silvia_S13/2.jpg",
       "../dist/Image/Ducktail_Silvia_S13/3.jpg",
-      "../dist/Image/Ducktail_Silvia_S13/4.jpg",
-      "../dist/Image/Ducktail_Silvia_S13/5.jpg",
-      "../dist/Image/Ducktail_Silvia_S13/6.jpg"
+      "../dist/Image/Ducktail_Silvia_S13/4.jpg"
     ],
     "reviews": []
   }	,
   {
-    "name": "Overfenders S13 Hatch",
+    "name": "Overfenders S13",
     "price": 400,
-    "description": "Zircon is our most coveted and sought after gem. You will pay much to be the proud owner of this gorgeous and high shine gem.",
-    "shine": 70,
-    "rarity": 2,
-    "color": "#000",
-    "faces": 6,
+    "description": "Overfenders for S13 Hatch.",
+    "color": "Grey",
     "images": [
       "../dist/Image/Overfenders_S13_Hatch/1.jpg",
       "../dist/Image/Overfenders_S13_Hatch/2.jpg",
@@ -71,32 +60,23 @@
   }	
     ,
   {
-    "name": "Nissan S12 Coup",
+    "name": "Ducktail S12",
     "price": 200,
-    "description": "bla bla bla",
-    "shine": 70,
-    "rarity": 2,
-    "color": "#000",
-    "faces": 6,
+    "description": "Ducktail for S12 Coup.",
+    "color": "Grey",
     "images": [
       "../dist/Image/Nissan_S12_Coup/1.jpg",
       "../dist/Image/Nissan_S12_Coup/2.jpg",
-      "../dist/Image/Nissan_S12_Coup/3.jpg",
-      "../dist/Image/Nissan_S12_Coup/4.jpg",
-      "../dist/Image/Nissan_S12_Coup/5.jpg",
-      "../dist/Image/Nissan_S12_Coup/6.jpg"
+      "../dist/Image/Nissan_S12_Coup/3.jpg"
     ],
     "reviews": []
   }
     ,
   {
-    "name": "Ducktail Skyline r32 2or4 Doors",
+    "name": "Ducktail Skyline r32",
     "price": 200,
-    "description": "bla bla bla",
-    "shine": 70,
-    "rarity": 2,
-    "color": "#000",
-    "faces": 6,
+    "description": "Ducktail for Skyline r32, 2 or 4 Doors.",
+    "color": "Grey",
     "images": [
       "../dist/Image/Ducktail_Skyline_r32_2or4_Doors/1.jpg",
       "../dist/Image/Ducktail_Skyline_r32_2or4_Doors/2.jpg",
@@ -109,39 +89,25 @@
   }
     ,
   {
-    "name": "Nissan S12 Coup",
+    "name": "Ducktail S13",
     "price": 200,
-    "description": "bla bla bla",
-    "shine": 70,
-    "rarity": 2,
-    "color": "#000",
-    "faces": 6,
+    "description": "Ducktail for S13 Hatch.",
+    "color": "Grey",
     "images": [
       "../dist/Image/Ducktail_s13 _Hatch/1.jpg",
-      "../dist/Image/Ducktail_s13 _Hatch/2.jpg",
-      "../dist/Image/Ducktail_s13 _Hatch/3.jpg",
-      "../dist/Image/Ducktail_s13 _Hatch/4.jpg",
-      "../dist/Image/Ducktail_s13 _Hatch/5.jpg",
-      "../dist/Image/Ducktail_s13 _Hatch/6.jpg"
+      "../dist/Image/Ducktail_s13 _Hatch/2.jpg"
     ],
     "reviews": []
   }
     ,
   {
-    "name": "Ducktail Skyline r32 2or4 Doors",
+    "name": "Ducktail Rx7",
     "price": 200,
-    "description": "bla bla bla",
-    "shine": 70,
-    "rarity": 2,
-    "color": "#000",
-    "faces": 6,
+    "description": "Ducktail for Rx7.",
+    "color": "Grey",
     "images": [
       "../dist/Image/Ducktail_Rx7/1.jpg",
-      "../dist/Image/Ducktail_Rx7/2.jpg",
-      "../dist/Image/Ducktail_Rx7/3.jpg",
-      "../dist/Image/Ducktail_Rx7/4.jpg",
-      "../dist/Image/Ducktail_Rx7/5.jpg",
-      "../dist/Image/Ducktail_Rx7/6.jpg"
+      "../dist/Image/Ducktail_Rx7/2.jpg"
     ],
     "reviews": []
   }
