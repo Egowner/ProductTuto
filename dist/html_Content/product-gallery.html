@@ -1,0 +1,11 @@
+<div ng-show="product.images.length">
+  <div class="img-wrap">
+	<a href="{{product.images[gallery.current]}}" data-lightbox="PaulWork"> <img class="img-thumbnail" ng-src="{{product.images[gallery.current]}}" title="Click to see in full size" /></a>  
+    
+  </div>
+  <ul class="img-thumbnails clearfix">
+    <li class="small-image pull-left thumbnail" ng-repeat="image in product.images">
+      <a href="{{image}}" data-lightbox="PaulWork"> <img class="img-thumbnail" ng-src="{{image}}" title="Click to see in full size" /></a>
+    </li>
+  </ul>
+</div>

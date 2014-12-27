@@ -1,0 +1,68 @@
+body {
+  padding-top: 70px
+}
+
+.slide-image {
+  width: 100%;
+}
+
+.carousel-holder {
+  margin-bottom: 30px;
+}
+
+.carousel-control,.item {
+  border-radius: 4px;
+}
+
+.caption {
+  height: 100%;
+  overflow: hidden;
+}
+
+.caption h4 {
+  white-space: nowrap;
+}
+
+.thumbnail img {
+  width: auto;
+	
+}
+
+.ratings {
+  color: #d17581;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.thumbnail {
+  padding: 0;
+  width: 100%;
+
+}
+
+.thumbnail .caption-full {
+  padding: 9px;
+  color: #333;
+}
+
+footer {
+  margin: 50px 0;
+}
+
+
+.ng-binding{
+	margin-left: 10px;
+    margin-right: 10px;
+}
+
+.small-image.pull-left.thumbnail.ng-scope{
+	max-width: 30%;
+    height: 65px;
+    border: 0px;
+}
+
+ul,
+ol {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}

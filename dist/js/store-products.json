@@ -1,0 +1,148 @@
+[
+  {
+    "name": "50mm fender flare",
+    "price": 200,
+    "description": "Super flexible fender flare made of faber glass with a special gelcot.",
+    "wide": 50,    
+    "color": "Grey",
+    "images": [
+      "../dist/Image/Flares50mm/1.jpg",
+      "../dist/Image/Flares50mm/2.jpg",
+      "../dist/Image/Flares50mm/3.jpg",
+      "../dist/Image/Flares50mm/4.jpg",
+      "../dist/Image/Flares50mm/5.jpg",
+      "../dist/Image/Flares50mm/6.jpg"
+    ],
+    "reviews": []
+  },
+  {
+    "name": "Ducktail Altezza Is300",
+    "price": 240,
+    "description": "Origin of the Bloodstone is unknown, hence its low value. It has a very high shine and 12 sides, however.",
+    "shine": 9,    
+    "rarity": 6,
+    "color": "#EEE",
+    "faces": 12,
+    "images": [
+      "../dist/Image/Ducktail_Altezza_Is300/1.jpg",
+      "../dist/Image/Ducktail_Altezza_Is300/2.jpg",
+      "../dist/Image/Ducktail_Altezza_Is300/3.jpg",
+      "../dist/Image/Ducktail_Altezza_Is300/4.jpg",
+      "../dist/Image/Ducktail_Altezza_Is300/5.jpg",
+      "../dist/Image/Ducktail_Altezza_Is300/6.jpg"
+    ],
+    "reviews": []
+  },
+  {
+    "name": "Ducktail Silvia S13",
+    "price": 200,
+    "description": "Zircon is our most coveted and sought after gem. You will pay much to be the proud owner of this gorgeous and high shine gem.",
+    "shine": 70,
+    "rarity": 2,
+    "color": "#000",
+    "faces": 6,
+    "images": [
+      "../dist/Image/Ducktail_Silvia_S13/1.jpg",
+      "../dist/Image/Ducktail_Silvia_S13/2.jpg",
+      "../dist/Image/Ducktail_Silvia_S13/3.jpg",
+      "../dist/Image/Ducktail_Silvia_S13/4.jpg",
+      "../dist/Image/Ducktail_Silvia_S13/5.jpg",
+      "../dist/Image/Ducktail_Silvia_S13/6.jpg"
+    ],
+    "reviews": []
+  }	,
+  {
+    "name": "Overfenders S13 Hatch",
+    "price": 400,
+    "description": "Zircon is our most coveted and sought after gem. You will pay much to be the proud owner of this gorgeous and high shine gem.",
+    "shine": 70,
+    "rarity": 2,
+    "color": "#000",
+    "faces": 6,
+    "images": [
+      "../dist/Image/Overfenders_S13_Hatch/1.jpg",
+      "../dist/Image/Overfenders_S13_Hatch/2.jpg",
+      "../dist/Image/Overfenders_S13_Hatch/3.jpg",
+      "../dist/Image/Overfenders_S13_Hatch/4.jpg",
+      "../dist/Image/Overfenders_S13_Hatch/5.jpg",
+      "../dist/Image/Overfenders_S13_Hatch/6.jpg"
+    ],
+    "reviews": []
+  }	
+    ,
+  {
+    "name": "Nissan S12 Coup",
+    "price": 200,
+    "description": "bla bla bla",
+    "shine": 70,
+    "rarity": 2,
+    "color": "#000",
+    "faces": 6,
+    "images": [
+      "../dist/Image/Nissan_S12_Coup/1.jpg",
+      "../dist/Image/Nissan_S12_Coup/2.jpg",
+      "../dist/Image/Nissan_S12_Coup/3.jpg",
+      "../dist/Image/Nissan_S12_Coup/4.jpg",
+      "../dist/Image/Nissan_S12_Coup/5.jpg",
+      "../dist/Image/Nissan_S12_Coup/6.jpg"
+    ],
+    "reviews": []
+  }
+    ,
+  {
+    "name": "Ducktail Skyline r32 2or4 Doors",
+    "price": 200,
+    "description": "bla bla bla",
+    "shine": 70,
+    "rarity": 2,
+    "color": "#000",
+    "faces": 6,
+    "images": [
+      "../dist/Image/Ducktail_Skyline_r32_2or4_Doors/1.jpg",
+      "../dist/Image/Ducktail_Skyline_r32_2or4_Doors/2.jpg",
+      "../dist/Image/Ducktail_Skyline_r32_2or4_Doors/3.jpg",
+      "../dist/Image/Ducktail_Skyline_r32_2or4_Doors/4.jpg",
+      "../dist/Image/Ducktail_Skyline_r32_2or4_Doors/5.jpg",
+      "../dist/Image/Ducktail_Skyline_r32_2or4_Doors/6.jpg"
+    ],
+    "reviews": []
+  }
+    ,
+  {
+    "name": "Nissan S12 Coup",
+    "price": 200,
+    "description": "bla bla bla",
+    "shine": 70,
+    "rarity": 2,
+    "color": "#000",
+    "faces": 6,
+    "images": [
+      "../dist/Image/Ducktail_s13 _Hatch/1.jpg",
+      "../dist/Image/Ducktail_s13 _Hatch/2.jpg",
+      "../dist/Image/Ducktail_s13 _Hatch/3.jpg",
+      "../dist/Image/Ducktail_s13 _Hatch/4.jpg",
+      "../dist/Image/Ducktail_s13 _Hatch/5.jpg",
+      "../dist/Image/Ducktail_s13 _Hatch/6.jpg"
+    ],
+    "reviews": []
+  }
+    ,
+  {
+    "name": "Ducktail Skyline r32 2or4 Doors",
+    "price": 200,
+    "description": "bla bla bla",
+    "shine": 70,
+    "rarity": 2,
+    "color": "#000",
+    "faces": 6,
+    "images": [
+      "../dist/Image/Ducktail_Rx7/1.jpg",
+      "../dist/Image/Ducktail_Rx7/2.jpg",
+      "../dist/Image/Ducktail_Rx7/3.jpg",
+      "../dist/Image/Ducktail_Rx7/4.jpg",
+      "../dist/Image/Ducktail_Rx7/5.jpg",
+      "../dist/Image/Ducktail_Rx7/6.jpg"
+    ],
+    "reviews": []
+  }
+]
